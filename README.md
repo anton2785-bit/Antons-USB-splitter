@@ -15,3 +15,19 @@
   * <img width="567" height="367" alt="Screenshot 2026-04-04 201524" src="https://github.com/user-attachments/assets/a58f035a-6b70-4bdc-a2c4-242463e9e045" />
   * The 3D model of the PCB:
   * <img width="550" height="369" alt="Screenshot 2026-04-04 201533" src="https://github.com/user-attachments/assets/0776724e-b316-477f-88ef-b0f21466673a" />
+ 
+  ---
+  
+  ## Assembly
+  * Taking one of the two assembled PCBs and soulderinf the 5 USB A ports.
+  * Thats the assembly nothing more to it other that 5 or 8 capacitors on the back side.
+ ---
+ ## BOM
+ | Name | Purpose | Qty | Cost (USD) | Distributor |
+|------|---------|-----|------------|-------------|
+| PCB Assembly | PCB with all resisotrs and chips | 1 | $43.00 | JLCPCB |
+---
+## Credits
+
+* Designed and built by *(Anton/ Anton-2785-bit)
+* Inspired by open‑source mechanical keyboard and hackpad communities (https://stasis.hackclub.com/dashboard).
