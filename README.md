@@ -14,4 +14,4 @@
   * This is the PCB:
   * <img width="567" height="367" alt="Screenshot 2026-04-04 201524" src="https://github.com/user-attachments/assets/a58f035a-6b70-4bdc-a2c4-242463e9e045" />
   * The 3D model of the PCB:
-  * <img width="1550" height="969" alt="Screenshot 2026-04-04 201533" src="https://github.com/user-attachments/assets/0776724e-b316-477f-88ef-b0f21466673a" />
+  * <img width="550" height="369" alt="Screenshot 2026-04-04 201533" src="https://github.com/user-attachments/assets/0776724e-b316-477f-88ef-b0f21466673a" />
