@@ -4,7 +4,7 @@
 
 * This is a small PCB that can take 1 input signal via USB A and output 4 separate USB A signals.  
 ---
-## Why i made this project/hackpad
+## Why i made this project
 
 * I made the USB splitter because I want to have a USB hub closer to my keyboard or me in general so that I dont have to dive behind my  PC to plug a USB.
 * Also this version is smaller and if I dont need the 3.0 speeds I will be able to use this one.
