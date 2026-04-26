@@ -13,9 +13,10 @@
   * This is an image of the schematic:
   * <img width="561" height="315" alt="Schematic" src="https://github.com/user-attachments/assets/c5a08c93-90d4-47eb-a57c-8e17abc0de3b" />
   * This is the PCB:
-  * <img width="530" height="333" alt="PCB" src="https://github.com/user-attachments/assets/e40545a5-b41d-4ac8-9b7c-dd76b8fb4de5" />
+  * <img width="529" height="391" alt="Screenshot 2026-04-26 203515" src="https://github.com/user-attachments/assets/67eb81fd-2a67-4845-ae3f-c002089aefd0" />
+
   * The 3D model of the PCB:
-  * <img width="539" height="373" alt="3D model" src="https://github.com/user-attachments/assets/cfc820d3-b52e-4da4-95e1-986d49a55221" />
+  * <img width="568" height="358" alt="Screenshot 2026-04-26 203628" src="https://github.com/user-attachments/assets/51fc0a7c-378b-4791-aa43-4329c568690b" />
 
   ---
   
