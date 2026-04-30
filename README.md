@@ -39,4 +39,4 @@
 ## Credits
 
 * Designed and built by *(Anton/ Anton-2785-bit)
-* Inspired by open‑source mechanical keyboard and hackpad communities (https://stasis.hackclub.com/dashboard).
+* Inspired by open‑source mechanical keyboard and hackpad communities (https://macondo.hackclub.com/).
